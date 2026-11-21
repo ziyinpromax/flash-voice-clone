@@ -1,7 +1,7 @@
 {
   "package": "com.parami.voiceclone",
-  "versionCode": 1,
-  "versionName": "1.0",
+  "versionCode": 2,
+  "versionName": "1.1",
   "certSha256": "10f8bcf7e81dba1c19090602487bc122248ff99742b6e7940e95bbbe4d2d4011",
-  "apkUrl": "https://github.com/ziyinpromax/flash-voice-clone/releases/download/v1.0/FlashVoiceClone.apk"
+  "apkUrl": "https://github.com/ziyinpromax/flash-voice-clone/releases/download/v1.1/FlashVoiceClone.apk"
 }
